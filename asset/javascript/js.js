@@ -30,13 +30,13 @@ const app = {
     isRepeat: false,
     songs: [
         {
-            name: "HOL'UP",
+            name: "HOL' UP",
             singer: "KENDRICK LAMMAR",
             path: './asset/song/music/song1.mp3',
             image: 'https://plus.unsplash.com/premium_photo-1683121324549-84fc1d876464?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60',
         },
         {
-            name: "UNSTOPVERBLE",
+            name: "UNSTOPPABLE",
             singer: "ICD",
             path: './asset/song/music/song2.mp3',
             image: 'https://images.unsplash.com/photo-1684777621486-6a00aaf5df32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60',
@@ -48,7 +48,7 @@ const app = {
             image: 'https://images.unsplash.com/photo-1684770683649-9b2d74fa5554?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60',
         },
         {
-            name: "LET ME DOWN",
+            name: "LET YOU DOWN",
             singer: "NF",
             path: './asset/song/music/song4.mp3',
             image: 'https://plus.unsplash.com/premium_photo-1678115323020-27c62b5dcb61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw4fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60',
@@ -60,7 +60,7 @@ const app = {
             image: 'https://images.unsplash.com/photo-1684243841385-18c29dd5ab29?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60',
         },
         {
-            name: "SILENT HILL",
+            name: "SILENT HILL Ft Kodak Black",
             singer: "KENDRICK LAMMAR F.t BABY KEEM",
             path: './asset/song/music/song6.mp3',
             image: 'https://plus.unsplash.com/premium_photo-1675826725982-e8508781c558?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
